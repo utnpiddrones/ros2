@@ -106,6 +106,6 @@ ros2 run px4_ros_com offboard_control
 exec $@
 ```
 
-# Documentación de ROS1
+# Tutorial de ROS1
 
 Históricamente, se armó un [tutorial para el uso de ROS1](https://docs.google.com/document/d/1D_b0H5wiFdyh2-BmS-qTF1_-4NFg61R_zfV_gSrFMYg/edit?usp=sharing). Si bien ROS1 se dejó de usar en favor de ROS2, algunas funciones y conceptos todavía son relevantes.
