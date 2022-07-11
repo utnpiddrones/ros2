@@ -1,4 +1,4 @@
-# PX4
+# ROS2
 
 Nodos de [ROS2 Foxy](https://docs.ros.org/en/foxy/index.html) para intercomunicación de la computadora de abordo y el sistema de control de [PX4](https://docs.px4.io/master/en/). Basado, en la imagen de Docker [utnpiddrones/ros2](https://hub.docker.com/repository/docker/utnpiddrones/ros2).
 
@@ -105,3 +105,7 @@ ros2 run px4_ros_com offboard_control
 
 exec $@
 ```
+
+# Documentación de ROS1
+
+Históricamente, se armó un [tutorial para el uso de ROS1](https://docs.google.com/document/d/1D_b0H5wiFdyh2-BmS-qTF1_-4NFg61R_zfV_gSrFMYg/edit?usp=sharing). Si bien ROS1 se dejó de usar en favor de ROS2, algunas funciones y conceptos todavía son relevantes.
